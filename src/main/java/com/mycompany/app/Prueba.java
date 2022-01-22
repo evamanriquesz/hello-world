@@ -4,10 +4,22 @@ public class Prueba {
 
     String nombrePrueba;
 
+    /**
+     *
+     * @param prueba
+     * Este método no se utilizará por el momento.
+     */
     public Prueba(String prueba)
     {
         nombrePrueba = prueba;
     }
+
+    public Prueba()
+    {
+
+    }
+
+
 
     public String getNombrePrueba()
     {
@@ -17,7 +29,7 @@ public class Prueba {
     public void setNombrePrueba(String prueba)
     {
         this.nombrePrueba = prueba;
-        System.out.println("El nombre de la prueba se ha cambiado correctamente. Nuevo nombre: " + prueba);
+        System.out.println("El nombre de la prueba se ha intruducido correctamente. Nombre: " + prueba);
     }
 
 }

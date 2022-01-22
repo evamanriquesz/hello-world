@@ -12,8 +12,8 @@ public class App
     String nombre;
 
     public App() {
-        p = new Prueba("Intento");
-        System.out.println("Introduzca un nuevo nombre");
+        p = new Prueba();
+        System.out.println("Introduzca un nombre: ");
         Scanner teclado = new Scanner(System.in);
         nombre = teclado.nextLine();
         p.setNombrePrueba(nombre);
@@ -21,9 +21,9 @@ public class App
 
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
-        System.out.println("Esta es la práctica 1.");
-        System.out.println("Probando commit.");
+        //System.out.println( "Hello World!" );
+        //System.out.println("Esta es la práctica 1.");
+        //System.out.println("Probando commit.");
         new App();
 
 
