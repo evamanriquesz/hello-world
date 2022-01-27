@@ -7,5 +7,15 @@ public class Prueba5 {
 
     }
 
+    public Prueba5(String var1, int var2)
+    {
+
+    }
+
+    public Prueba5(String var1, int var2, boolean var3)
+    {
+        
+    }
+
 }
 
