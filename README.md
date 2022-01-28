@@ -7,7 +7,8 @@ El objetivo de esta práctica es adquirir nociones básicas de GitHub para su po
 En la carpeta src/java/main se encuentran dos carpetas: una primera llamada com.mycompany.app en la que se incluyen las diferentes clases que se han creado usando los comandos que se pedían, además de un pequeño programa en la clase App para comprobar que todo el software funciona perfectamente (este programa te solicitará introducir un nombre por teclado). En la segunda carpeta, resources, se ubica el Informe de la Práctica, un documento pdf que contiene evidencia de la instalación del software necesario, de la creación del proyecto, del uso de los comandos que se pedían, y del uso de otros comandos extra, que también serán de utilidad en futuras prácticas.
 
 
-##-----------------------------------------------------------------
+##
+
 
 
 Un repositorio para empezar a usar Github y Github Actions con Java
