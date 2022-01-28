@@ -17,6 +17,10 @@ public class Prueba5 {
 
     }
 
+    public Prueba5(int var1)
+    {
+
+    }
     public Prueba5(String var2)
     {
 
