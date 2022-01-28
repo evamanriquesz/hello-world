@@ -29,7 +29,7 @@ public class Prueba {
     public void setNombrePrueba(String prueba)
     {
         this.nombrePrueba = prueba;
-        System.out.println("El nombre de la prueba se ha intruducido correctamente. Nombre: " + prueba);
+        System.out.println("El nombre se ha intruducido correctamente. Nombre: " + prueba);
     }
 
 }
